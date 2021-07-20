@@ -13,7 +13,7 @@
     "react": "^16.13.0",
     "react-art": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-native": "0.60",
+    "react-native": "0.62",
     "react-native-web": "^0.12.2",
     "react-scripts": "3.4.0",
     "typescript": "~3.7.2"
